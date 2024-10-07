@@ -1,0 +1,23 @@
+---
+title: "pkgdown2793"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{pkgdown2793}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(pkgdown2793)
+```
+
+```{r}
+knitr::include_graphics("images/cat.jpg")
+```
